@@ -8,4 +8,8 @@ Participation in the challenge is optional. You can still submit an application 
 Get started by reading the [challenge description](mission_challenge.md). Good luck!
 
 # Answer 
-XRT-421-ZQP
+
+run this command 
+
+```bash
+awk -f longest_mars.awk space_missions.log
